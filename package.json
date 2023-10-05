@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "supabase": "^1.88.0"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
